@@ -1,0 +1,14 @@
+# Big files (ISO, squashfs, etc.)
+iso-work/*.iso
+iso-work/*.img
+iso-work/squashfs-root/
+iso-work/iso/
+
+# Temp/backup files
+*.bak
+*.swp
+*~
+
+# OS junk
+.DS_Store
+Thumbs.db
